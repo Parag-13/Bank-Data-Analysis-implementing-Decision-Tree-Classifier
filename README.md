@@ -28,6 +28,7 @@ Implementation in Python:
 The model is implemented using Python, leveraging libraries such as pandas for data manipulation, scikit-learn for model building, and matplotlib for visualization.
 
 Outcome:
+
 The final model identifies PEPs with high accuracy, providing banks with a reliable tool for regulatory compliance and risk management. The Decision Tree's interpretability aids in understanding the decision-making process, offering insights into key factors influencing the classification.
 
 This project showcases the application of machine learning techniques in the financial sector, emphasizing the integration of data preprocessing, model training, and evaluation to address real-world challenges.
