@@ -22,7 +22,7 @@ Training and Testing Split: The dataset is divided into training and testing set
 
 Model Training: Utilize the training dataset to train the Decision Tree Classifier, tuning hyperparameters such as tree depth, min_samples_split, and min_samples_leaf to optimize performance.
 
-Model Evaluation: Evaluate the model using metrics such as accuracy, precision, recall, F1-score, and ROC-AUC on the testing dataset to ensure robust performance.
+Model Evaluation: Evaluate the model using metrics such as accuracy and precision on the testing dataset to ensure robust performance.
 
 Implementation in Python:
 The model is implemented using Python, leveraging libraries such as pandas for data manipulation, scikit-learn for model building, and matplotlib for visualization.
