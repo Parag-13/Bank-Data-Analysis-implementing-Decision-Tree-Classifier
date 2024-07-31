@@ -7,15 +7,21 @@ The dataset comprises anonymized bank transaction records, including attributes 
 Data Preprocessing:
 
 Data Cleaning: Handle missing values, remove duplicates, and correct inconsistencies.
+
 Feature Engineering: Extract relevant features such as transaction volume, average transaction size, frequency of transactions with high-risk countries, etc.
+
 Normalization and Scaling: Normalize continuous variables to ensure uniformity and scale features to enhance model performance.
+
 Label Encoding: Encode categorical variables for numerical processing.
 
 Model Implementation:
 
 Algorithm Selection: Decision Tree Classifier is chosen for its interpretability and effectiveness in handling both numerical and categorical data.
+
 Training and Testing Split: The dataset is divided into training and testing sets, typically with a 70-30 split.
+
 Model Training: Utilize the training dataset to train the Decision Tree Classifier, tuning hyperparameters such as tree depth, min_samples_split, and min_samples_leaf to optimize performance.
+
 Model Evaluation: Evaluate the model using metrics such as accuracy, precision, recall, F1-score, and ROC-AUC on the testing dataset to ensure robust performance.
 
 Implementation in Python:
